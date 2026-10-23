@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Agenda24-09/Agenda24-09.iml" filepath="$PROJECT_DIR$/Agenda24-09/Agenda24-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnimalMod/AnimalMod.iml" filepath="$PROJECT_DIR$/AnimalMod/AnimalMod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeneralizacaoHerancaEx/GeneralizacaoHerancaEx.iml" filepath="$PROJECT_DIR$/GeneralizacaoHerancaEx/GeneralizacaoHerancaEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula5c/aula5c.iml" filepath="$PROJECT_DIR$/aula5c/aula5c.iml" />
       <module fileurl="file://$PROJECT_DIR$/contaData/contaData.iml" filepath="$PROJECT_DIR$/contaData/contaData.iml" />
       <module fileurl="file://$PROJECT_DIR$/empregadosFirma/empregadosFirma.iml" filepath="$PROJECT_DIR$/empregadosFirma/empregadosFirma.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exPOO.iml" filepath="$PROJECT_DIR$/.idea/exPOO.iml" />
       <module fileurl="file://$PROJECT_DIR$/lojaSuprimentos/lojaSuprimentos.iml" filepath="$PROJECT_DIR$/lojaSuprimentos/lojaSuprimentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
